@@ -1,0 +1,387 @@
+/*header*/
+@media (max-width: 375px) {
+    header .elems-1 .b-menu {
+        margin-left: -20px;
+    }
+}
+
+@media (max-width: 320px) {
+    header .elems-1 .b-menu {
+        margin-left: -15px;
+    }
+}
+
+@media (max-width: 768px) {
+    header .elems-1 .b-brand {
+        margin-left: 550px;
+    }
+}
+
+@media (max-width: 375px) {
+    header .elems-1 .b-brand {
+        margin-left: 200px;
+    }
+}
+@media (max-width: 320px) {
+    header .elems-1 .b-brand {
+        margin-left: 150px;
+    }
+}
+
+/*header*/
+/*content-1-1*/
+#content-1-1 .elems-2-2 {
+    margin-left: 150px;
+}
+
+
+@media (max-width: 375px) {
+    #content-1-1 .elems-2-2 {
+        margin-left: 50px;
+
+    }
+}
+
+@media (max-width: 375px) {
+    #content-1-1 .elems-2-2__text {
+        font-size: 14px;
+        margin-left: 10px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-1-1 .elems-2-2__description {
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-1-1 .elems-2-2__line {
+        display: none;
+    }
+}
+
+/*content-1-1*/
+/*content-2*/
+@media (max-width: 768px) {
+    #content-2 .elems-3__card {
+        margin-left: 130px;
+    }
+}
+
+@media (max-width: 768px) {
+    #content-2 .elems-3__title {
+        margin-left: 115px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-2 .elems-3__card {
+        margin-left: 50px;
+        width: 250px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-2 .elems-3__title {
+        margin-left: 55px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-2 .elems-3__subtitle {
+        font-size: 38px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-2 .elems-3__description {
+        line-height: 16px;
+    }
+}
+
+
+@media (max-width: 320px) {
+    #content-2 .elems-3__card {
+        margin-left: 20px;
+        width: 250px;
+    }
+}
+
+@media (max-width: 320px) {
+    #content-2 .elems-3__title {
+        margin-left: 25px;
+    }
+}
+
+@media (max-width: 320px) {
+    #content-2 .elems-3__subtitle {
+        font-size: 38px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    #content-2 .elems-3__description {
+        line-height: 16px;
+    }
+}
+
+/*content-2*/
+/*content-3*/
+@media (max-width: 768px) {
+    #content-3 .elems-4__card-2 {
+        margin-left: 130px;
+    }
+}
+
+@media (max-width: 768px) {
+    #content-3 .elems-4__title {
+        margin-left: 115px;
+    }
+
+}
+
+@media (max-width: 375px) {
+    #content-3 .elems-4__card-2 {
+        margin-left: 50px;
+        width: 250px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-3 .elems-4__title {
+        margin-left: 55px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-3 .elems-4__subtitle {
+        font-size: 33px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width: 375px) {
+    #content-3 .elems-4__description {
+        line-height: 20px;
+    }
+}
+@media (max-width: 320px) {
+    #content-3 .elems-4__card-2 {
+        margin-left: 25px;
+        width: 250px;
+    }
+}
+
+@media (max-width: 320px) {
+    #content-3 .elems-4__title {
+        margin-left: 25px;
+    }
+}
+
+@media (max-width: 320px) {
+    #content-3 .elems-4__subtitle {
+        font-size: 31px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width: 320px) {
+    #content-3 .elems-4__description {
+        line-height: 20px;
+    }
+}
+@media (max-width: 320px) {
+    #content-3 .elems-4__text {
+        font-size: 13px;
+    }
+}
+
+/*content-3*/
+/*slider*/
+@media (max-width: 768px) {
+    #bromo .slider-elems {
+        margin-top: -80px;
+    }
+}
+
+@media (max-width: 768px) {
+    #bromo .slider-elems__line-1 {
+        margin-left: -500px;
+    }
+}
+
+@media (max-width: 768px) {
+    #bromo .slider-elems__line-2 {
+        margin-left: 420px;
+    }
+}
+
+@media (max-width: 768px) {
+    #bromo .slider-elems__bromo {
+        margin-left: 300px;
+    }
+}
+
+@media (max-width: 768px) {
+    #bromo .slider-elems__par {
+        font-size: 17px
+    }
+}
+
+@media (max-width: 768px) {
+    #bromo .slider-elems__link {
+        margin-left: -400px;
+    }
+}
+
+@media (max-width: 768px) {
+    #bromo .slider-elems__arrow {
+        margin-left: -300px;
+    }
+}
+
+
+@media (max-width: 375px) {
+    #bromo .slider-elems {
+        margin-top: 200px;
+    }
+}
+
+@media (max-width: 375px) {
+    #bromo .slider-elems__text {
+        font-size: 24px;
+        line-height: 42px;
+    }
+}
+
+@media (max-width: 375px) {
+    #bromo .slider-elems__par {
+        font-size: 14px;
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 375px) {
+    #bromo .slider-elems__line-1 {
+        display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    #bromo .slider-elems__line-2 {
+        display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    #bromo .slider-elems__bromo {
+        margin-left: -460px;
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 375px) {
+    #bromo .slider-elems__link {
+        margin-left: -180px;
+    }
+}
+
+@media (max-width: 375px) {
+    #bromo .slider-elems__arrow {
+        margin-left: -80px;
+    }
+}
+
+
+@media (max-width: 320px) {
+    #bromo .slider-elems {
+        margin-top: 200px;
+    }
+}
+
+@media (max-width: 320px) {
+    #bromo .slider-elems__text {
+        font-size: 20px;
+        line-height: 32px;
+    }
+}
+
+@media (max-width: 320px) {
+    #bromo .slider-elems__par {
+        font-size: 10px;
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 320px) {
+    #bromo .slider-elems__line-1 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    #bromo .slider-elems__line-2 {
+        display: none;
+    }
+}
+
+@media (max-width: 320px) {
+    #bromo .slider-elems__bromo {
+        margin-left: -380px;
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 320px) {
+    #bromo .slider-elems__link {
+        margin-left: -160px;
+    }
+}
+
+@media (max-width: 320px) {
+    #bromo .slider-elems__arrow {
+        margin-left: -60px;
+    }
+}
+
+/*slider*/
+/*elems-5*/
+@media (max-width: 375px) {
+    #content-4 .elems-5__title {
+        margin-left: -65px;
+    }
+}
+@media (max-width: 320px) {
+    #content-4 .elems-5__title {
+        font-size: 13px;
+        margin-left: -63px;
+    }
+}
+
+
+/*elems-5*/
+/*footer*/
+@media (max-width: 768px) {
+    #footer .elems-6__socials {
+        margin-left: 100px;
+    }
+}
+
+@media (max-width: 375px) {
+    #footer .elems-6__text {
+        font-size: 20px;
+        margin-left: 1px;
+    }
+}
+
+@media (max-width: 375px) {
+    #footer .elems-6__foot-1 {
+        text-align: center;
+    }
+}
+
+
+/*footer*/
